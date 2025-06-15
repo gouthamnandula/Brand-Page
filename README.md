@@ -1,3 +1,3 @@
 # Brand Page
 
-![Brand Logo](./images/image.png)
+![Brand Logo](./image.png)
